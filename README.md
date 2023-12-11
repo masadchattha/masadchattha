@@ -3,7 +3,7 @@
 
 Passionate about crafting slick iOS apps!
           
-[Twitter](https://twitter.com/masadchattha) • [Github](https://github.com/masadchattha/masadchattha) • [LinkedIn](https://www.linkedin.com/in/masadchattha/)
+[Twitter](https://twitter.com/masadchattha) • [Github](https://github.com/masadchattha/masadchattha) • [LinkedIn](https://www.linkedin.com/in/masadchattha/)  • [Stack Overflow](https://stackoverflow.com/users/9735204/muhammad-asad-chattha)
 </div>
 
 ---
