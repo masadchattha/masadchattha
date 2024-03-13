@@ -10,7 +10,7 @@ Passionate about crafting slick iOS apps!
 I'm an iOS Developer skilled in Swift, UIKit, SwiftUI & Objective-C. Proven track record with diverse projects—from social media to task management apps.
 Collaborative team player. Eager for new challenges and inquiries in the world of AI.
 
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m passionate to learn new Stuff
 - 👯 I’m looking to collaborate on innovative ventures
 - 💬 Ask me about iOS development
 - 📫 Reach me at m.asad.chatthaa@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/muhammadasadch/)
