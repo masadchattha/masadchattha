@@ -7,7 +7,7 @@ Passionate about crafting slick iOS apps!
 </div>
 
 ---
-I'm an iOS Developer skilled in Swift, UIKit, SwiftUI & Objective-C. Proven track record with diverse projects—from social media to task management apps.
+I'm an iOS Developer skilled in Swift , UIKit, SwiftUI & Objective-C. Proven track record with diverse projects—from social media to task management apps.
 Collaborative team player. Eager for new challenges and inquiries in the world of AI.
 
 - 🌱 I’m passionate to learn new Stuff
