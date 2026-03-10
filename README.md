@@ -88,7 +88,7 @@ My core is **iOS native (Swift, SwiftUI)**. I specialize in Apple's **Screen Tim
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=masadchattha&show_icons=true&theme=tokyonight&hide_border=true" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=masadchattha&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,ruby,shell,typescript,java,plpgsql" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=masadchattha&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,ruby,shell" />
 </p>
 
 <p align="center">
@@ -97,11 +97,9 @@ My core is **iOS native (Swift, SwiftUI)**. I specialize in Apple's **Screen Tim
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=masadchattha&theme=tokyonight&no-frame=true&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" />
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=masadchattha&theme=tokyo-night&hide_border=true&area=true)](https://github.com/masadchattha)
 
 ---
 
