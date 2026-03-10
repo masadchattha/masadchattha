@@ -86,9 +86,9 @@ My core is **iOS native (Swift, SwiftUI)**. I specialize in Apple's **Screen Tim
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masadchattha&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=masadchattha&show_icons=true&theme=tokyonight&hide_border=true" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masadchattha&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,ruby,shell" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=masadchattha&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,ruby,shell" />
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@ My core is **iOS native (Swift, SwiftUI)**. I specialize in Apple's **Screen Tim
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=masadchattha&theme=tokyonight&column=4" />
+  <img src="https://github-trophies.vercel.app/?username=masadchattha&theme=tokyonight&column=4" />
 </p>
 
 ---
