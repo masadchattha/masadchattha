@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3a0ca3,100:4361ee&height=200&section=header&text=Muhammad%20Asad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20iOS%20Engineer%20%7C%20Swift%20%26%20SwiftUI%20%7C%2012%2B%20Live%20Apps%20on%20App%20Store&descAlignY=62&descSize=17&descColor=a8b2d8" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:4361ee&height=200&section=header&text=Muhammad%20Asad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20iOS%20Engineer%20%7C%20Swift%20%26%20SwiftUI%20%7C%2012%2B%20Live%20Apps&descAlignY=62&descSize=17&descColor=a8b2d8" />
 </div>
 
 <p align="center">
@@ -86,7 +86,7 @@ My core is **iOS native (Swift, SwiftUI)**. I specialize in Apple's **Screen Tim
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masadchattha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masadchattha&show_icons=true&theme=tokyonight&hide_border=true" />
   &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masadchattha&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,ruby,shell" />
 </p>
@@ -100,7 +100,7 @@ My core is **iOS native (Swift, SwiftUI)**. I specialize in Apple's **Screen Tim
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=masadchattha&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=masadchattha&theme=tokyonight&column=4" />
 </p>
 
 ---
