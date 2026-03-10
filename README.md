@@ -68,13 +68,17 @@ My core is **iOS native (Swift, SwiftUI)**. I specialize in Apple's **Screen Tim
 ![HealthKit](https://img.shields.io/badge/HealthKit-FF2D55?style=flat-square&logo=apple&logoColor=white)
 ![Core NFC](https://img.shields.io/badge/Core%20NFC-0071E3?style=flat-square&logo=apple&logoColor=white)
 ![WatchKit](https://img.shields.io/badge/WatchKit-000000?style=flat-square&logo=apple&logoColor=white)
+![CoreML](https://img.shields.io/badge/CoreML-000000?style=flat-square&logo=apple&logoColor=white)
+![Create ML](https://img.shields.io/badge/Create%20ML-000000?style=flat-square&logo=apple&logoColor=white)
 
 **Backend & DevOps**
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black)
+![Proxyman](https://img.shields.io/badge/Proxyman-8762F5?style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Skill Icons**
@@ -116,25 +120,11 @@ My core is **iOS native (Swift, SwiftUI)**. I specialize in Apple's **Screen Tim
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/masadchattha">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://stackoverflow.com/users/9735204/muhammad-asad-chattha">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/masadchattha">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:m.asad.chatthaa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://calendly.com/m-asad-dev">
-    <img src="https://img.shields.io/badge/Book_a_Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/masadchattha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/9735204/muhammad-asad-chattha"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://twitter.com/masadchattha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:m.asad.chatthaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://calendly.com/m-asad-dev"><img src="https://img.shields.io/badge/Book_a_Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" /></a>
 </p>
 
 <div align="center">
