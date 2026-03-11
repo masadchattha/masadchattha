@@ -5,15 +5,15 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/masadchattha"><img src="https://komarev.com/ghpvc/?username=masadchattha&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" /></a>
+  <a href="#-about-me"><img src="https://komarev.com/ghpvc/?username=masadchattha&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" /></a>
   &nbsp;
-  <a href="https://github.com/masadchattha"><img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%26%20Relocation-brightgreen?style=for-the-badge&logo=github" /></a>
+  <a href="#-about-me"><img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%26%20Relocation-brightgreen?style=for-the-badge&logo=github" /></a>
   &nbsp;
-  <a href="https://github.com/masadchattha"><img src="https://img.shields.io/badge/12%2B%20Apps-App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+  <a href="#-about-me"><img src="https://img.shields.io/badge/12%2B%20Apps-App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/masadchattha">
+  <a href="#-about-me">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Senior+iOS+Engineer+%F0%9F%93%B1;12%2B+Live+Apps+on+App+Store;Swift+%7C+SwiftUI+%7C+UIKit+%7C+Objective-C;Screen+Time+API+%7C+WidgetKit+%7C+MapKit;Published+Author+on+Apple+Books+%F0%9F%93%98;Open+to+Remote+%26+Relocation+%F0%9F%8C%8D" alt="Typing SVG" />
   </a>
 </p>
@@ -57,10 +57,10 @@ My core is **iOS native (Swift, SwiftUI, UIKit, Objective-C)**. I specialize in 
 **iOS Core**
 
 <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" /></a>
-<a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img src="https://img.shields.io/badge/SwiftUI-0D6EFD?style=flat-square&logo=swift&logoColor=white" /></a>
+<a href="https://developer.apple.com/swiftui/" target="_blank"><img src="https://img.shields.io/badge/SwiftUI-0D6EFD?style=flat-square&logo=swift&logoColor=white" /></a>
 <a href="https://developer.apple.com/documentation/uikit" target="_blank"><img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white" /></a>
 <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" /></a>
-<a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"><img src="https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white" /></a>
+<a href="https://developer.apple.com/documentation/objectivec" target="_blank"><img src="https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white" /></a>
 
 **Apple Frameworks & APIs**
 
@@ -85,7 +85,7 @@ My core is **iOS native (Swift, SwiftUI, UIKit, Objective-C)**. I specialize in 
 
 **Skill Icons**
 
-<a href="https://github.com/masadchattha">
+<a href="#-tech-stack">
   <img src="https://skillicons.dev/icons?i=swift,firebase,supabase,git,github,aws,figma,postman&theme=dark" />
 </a>
 
@@ -94,26 +94,26 @@ My core is **iOS native (Swift, SwiftUI, UIKit, Objective-C)**. I specialize in 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/masadchattha"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=masadchattha&show_icons=true&theme=tokyonight&hide_border=true" /></a>
+  <a href="#-github-stats"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=masadchattha&show_icons=true&theme=tokyonight&hide_border=true" /></a>
   &nbsp;
-  <a href="https://github.com/masadchattha"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=masadchattha&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,ruby,shell" /></a>
+  <a href="#-github-stats"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=masadchattha&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,ruby,shell" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/masadchattha"><img src="https://streak-stats.demolab.com/?user=masadchattha&theme=tokyonight&hide_border=true" /></a>
+  <a href="#-github-stats"><img src="https://streak-stats.demolab.com/?user=masadchattha&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 ---
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=masadchattha&theme=tokyo-night&hide_border=true&area=true)](https://github.com/masadchattha)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=masadchattha&theme=tokyo-night&hide_border=true&area=true)](#-activity-graph)
 
 ---
 
 ## 🐍 Contribution Graph
 
-<a href="https://github.com/masadchattha">
+<a href="#-contribution-graph">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masadchattha/masadchattha/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masadchattha/masadchattha/output/github-snake.svg" />
@@ -134,7 +134,7 @@ My core is **iOS native (Swift, SwiftUI, UIKit, Objective-C)**. I specialize in 
 </p>
 
 <div align="center">
-  <a href="https://github.com/masadchattha">
+  <a href="#-connect">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4361ee,100:0d1117&height=100&section=footer" />
   </a>
 </div>
