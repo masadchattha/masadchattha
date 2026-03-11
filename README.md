@@ -5,15 +5,17 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=masadchattha&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+  <a href="https://github.com/masadchattha"><img src="https://komarev.com/ghpvc/?username=masadchattha&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%26%20Relocation-brightgreen?style=for-the-badge&logo=github" />
+  <a href="https://github.com/masadchattha"><img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%26%20Relocation-brightgreen?style=for-the-badge&logo=github" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/12%2B%20Apps-App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+  <a href="https://github.com/masadchattha"><img src="https://img.shields.io/badge/12%2B%20Apps-App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Senior+iOS+Engineer+%F0%9F%93%B1;12%2B+Live+Apps+on+App+Store;Swift+%7C+SwiftUI+%7C+UIKit+%7C+Objective-C;Screen+Time+API+%7C+WidgetKit+%7C+MapKit;Published+Author+on+Apple+Books+%F0%9F%93%98;Open+to+Remote+%26+Relocation+%F0%9F%8C%8D" alt="Typing SVG" />
+  <a href="https://github.com/masadchattha">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Senior+iOS+Engineer+%F0%9F%93%B1;12%2B+Live+Apps+on+App+Store;Swift+%7C+SwiftUI+%7C+UIKit+%7C+Objective-C;Screen+Time+API+%7C+WidgetKit+%7C+MapKit;Published+Author+on+Apple+Books+%F0%9F%93%98;Open+to+Remote+%26+Relocation+%F0%9F%8C%8D" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -54,49 +56,51 @@ My core is **iOS native (Swift, SwiftUI, UIKit, Objective-C)**. I specialize in 
 
 **iOS Core**
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D6EFD?style=flat-square&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
+<a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" /></a>
+<a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img src="https://img.shields.io/badge/SwiftUI-0D6EFD?style=flat-square&logo=swift&logoColor=white" /></a>
+<a href="https://developer.apple.com/documentation/uikit" target="_blank"><img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white" /></a>
+<a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" /></a>
+<a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"><img src="https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white" /></a>
 
 **Apple Frameworks & APIs**
 
-![WidgetKit](https://img.shields.io/badge/WidgetKit-1C1C1E?style=flat-square&logo=apple&logoColor=white)
-![Screen Time API](https://img.shields.io/badge/Screen%20Time%20API-FF3B30?style=flat-square&logo=apple&logoColor=white)
-![MapKit](https://img.shields.io/badge/MapKit-34C759?style=flat-square&logo=apple&logoColor=white)
-![HealthKit](https://img.shields.io/badge/HealthKit-FF2D55?style=flat-square&logo=apple&logoColor=white)
-![Core NFC](https://img.shields.io/badge/Core%20NFC-0071E3?style=flat-square&logo=apple&logoColor=white)
-![WatchKit](https://img.shields.io/badge/WatchKit-000000?style=flat-square&logo=apple&logoColor=white)
-![CoreML](https://img.shields.io/badge/CoreML-000000?style=flat-square&logo=apple&logoColor=white)
-![Create ML](https://img.shields.io/badge/Create%20ML-000000?style=flat-square&logo=apple&logoColor=white)
+<a href="https://developer.apple.com/documentation/widgetkit" target="_blank"><img src="https://img.shields.io/badge/WidgetKit-1C1C1E?style=flat-square&logo=apple&logoColor=white" /></a>
+<a href="https://developer.apple.com/documentation/screentime" target="_blank"><img src="https://img.shields.io/badge/Screen%20Time%20API-FF3B30?style=flat-square&logo=apple&logoColor=white" /></a>
+<a href="https://developer.apple.com/documentation/mapkit" target="_blank"><img src="https://img.shields.io/badge/MapKit-34C759?style=flat-square&logo=apple&logoColor=white" /></a>
+<a href="https://developer.apple.com/documentation/healthkit" target="_blank"><img src="https://img.shields.io/badge/HealthKit-FF2D55?style=flat-square&logo=apple&logoColor=white" /></a>
+<a href="https://developer.apple.com/documentation/corenfc" target="_blank"><img src="https://img.shields.io/badge/Core%20NFC-0071E3?style=flat-square&logo=apple&logoColor=white" /></a>
+<a href="https://developer.apple.com/documentation/watchkit" target="_blank"><img src="https://img.shields.io/badge/WatchKit-000000?style=flat-square&logo=apple&logoColor=white" /></a>
+<a href="https://developer.apple.com/documentation/coreml" target="_blank"><img src="https://img.shields.io/badge/CoreML-000000?style=flat-square&logo=apple&logoColor=white" /></a>
+<a href="https://developer.apple.com/documentation/createml" target="_blank"><img src="https://img.shields.io/badge/Create%20ML-000000?style=flat-square&logo=apple&logoColor=white" /></a>
 
 **Backend & DevOps**
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black)
-![Proxyman](https://img.shields.io/badge/Proxyman-8762F5?style=flat-square&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<a href="https://firebase.google.com" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /></a>
+<a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /></a>
+<a href="https://supabase.com" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /></a>
+<a href="https://graphql.org" target="_blank"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /></a>
+<a href="https://fastlane.tools" target="_blank"><img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black" /></a>
+<a href="https://proxyman.io" target="_blank"><img src="https://img.shields.io/badge/Proxyman-8762F5?style=flat-square&logoColor=white" /></a>
+<a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
 
 **Skill Icons**
 
-![Skills](https://skillicons.dev/icons?i=swift,firebase,supabase,git,github,aws,figma,postman&theme=dark)
+<a href="https://github.com/masadchattha">
+  <img src="https://skillicons.dev/icons?i=swift,firebase,supabase,git,github,aws,figma,postman&theme=dark" />
+</a>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=masadchattha&show_icons=true&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/masadchattha"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=masadchattha&show_icons=true&theme=tokyonight&hide_border=true" /></a>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=masadchattha&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,ruby,shell" />
+  <a href="https://github.com/masadchattha"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=masadchattha&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,ruby,shell" /></a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=masadchattha&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/masadchattha"><img src="https://streak-stats.demolab.com/?user=masadchattha&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 ---
@@ -109,11 +113,13 @@ My core is **iOS native (Swift, SwiftUI, UIKit, Objective-C)**. I specialize in 
 
 ## 🐍 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masadchattha/masadchattha/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masadchattha/masadchattha/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/masadchattha/masadchattha/output/github-snake.svg" width="100%" />
-</picture>
+<a href="https://github.com/masadchattha">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masadchattha/masadchattha/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masadchattha/masadchattha/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/masadchattha/masadchattha/output/github-snake.svg" width="100%" />
+  </picture>
+</a>
 
 ---
 
@@ -123,10 +129,12 @@ My core is **iOS native (Swift, SwiftUI, UIKit, Objective-C)**. I specialize in 
   <a href="https://linkedin.com/in/masadchattha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/9735204/muhammad-asad-chattha" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
   <a href="https://twitter.com/masadchattha" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:m.asad.chatthaa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:m.asad.chatthaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://calendly.com/m-asad-dev" target="_blank"><img src="https://img.shields.io/badge/Book_a_Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" /></a>
 </p>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4361ee,100:0d1117&height=100&section=footer" />
+  <a href="https://github.com/masadchattha">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4361ee,100:0d1117&height=100&section=footer" />
+  </a>
 </div>
