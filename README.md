@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:4361ee&height=200&section=header&text=Muhammad%20Asad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20iOS%20Engineer%20%7C%20Swift%2C%20SwiftUI%20%7C%2012%2B%20Live%20Apps&descAlignY=62&descSize=17&descColor=a8b2d8" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:4361ee&height=200&section=header&text=Muhammad%20Asad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20iOS%20Engineer%20%7C%20Swift%2C%20SwiftUI%2C%20UIKit%2C%20Obj-C%20%7C%2012%2B%20Live%20Apps&descAlignY=62&descSize=16&descColor=a8b2d8" />
 </div>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 Senior iOS Developer with **12+ live apps** on the App Store — shipped for clients in the **US, UK, Ireland, and Australia**.
 
-My core is **iOS native (Swift, SwiftUI)**. I specialize in Apple's **Screen Time & FamilyControls API** (5 parental control apps shipped — a rare skill). Also experienced with encrypted VoIP, NFC, blockchain, offline maps, and AI integration.
+My core is **iOS native (Swift, SwiftUI, UIKit, Objective-C)**. I specialize in Apple's **Screen Time & FamilyControls API** (5 parental control apps shipped — a rare skill). Also experienced with encrypted VoIP, NFC, blockchain, offline maps, and AI integration.
 
 - 📱 **12+ production apps** live on the App Store — search them by name
 - 📖 **Published Author** — *iOS Development using UIKit* (243 pages, Apple Books)
