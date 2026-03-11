@@ -125,13 +125,15 @@ My core is **iOS native (Swift, SwiftUI, UIKit, Objective-C)**. I specialize in 
 
 ## 🤝 Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/masadchattha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/9735204/muhammad-asad-chattha" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-  <a href="https://twitter.com/masadchattha" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:m.asad.chatthaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://calendly.com/m-asad-dev" target="_blank"><img src="https://img.shields.io/badge/Book_a_Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" /></a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/masadchattha)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9735204/muhammad-asad-chattha)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/masadchattha)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.asad.chatthaa@gmail.com)
+[![Book a Call](https://img.shields.io/badge/Book_a_Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/m-asad-dev)
+
+</div>
 
 <div align="center">
   <a href="#-connect">
