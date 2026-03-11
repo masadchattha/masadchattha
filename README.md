@@ -1,5 +1,7 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:4361ee&height=200&section=header&text=Muhammad%20Asad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20iOS%20Engineer%20%7C%20Swift%2C%20SwiftUI%2C%20UIKit%2C%20Obj-C%20%7C%2012%2B%20Live%20Apps&descAlignY=62&descSize=16&descColor=a8b2d8" />
+  <a href="https://github.com/masadchattha">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:4361ee&height=200&section=header&text=Muhammad%20Asad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20iOS%20Engineer%20%7C%20Swift%2C%20SwiftUI%2C%20UIKit%2C%20Obj-C%20%7C%2012%2B%20Live%20Apps&descAlignY=62&descSize=16&descColor=a8b2d8" />
+  </a>
 </div>
 
 <p align="center">
@@ -11,9 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Senior+iOS+Engineer+%F0%9F%93%B1;12%2B+Live+Apps+on+App+Store;Swift+%7C+SwiftUI+%7C+UIKit+%7C+Objective-C;Screen+Time+API+%7C+WidgetKit+%7C+MapKit;Published+Author+on+Apple+Books+%F0%9F%93%98;Open+to+Remote+%26+Relocation+%F0%9F%8C%8D" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Senior+iOS+Engineer+%F0%9F%93%B1;12%2B+Live+Apps+on+App+Store;Swift+%7C+SwiftUI+%7C+UIKit+%7C+Objective-C;Screen+Time+API+%7C+WidgetKit+%7C+MapKit;Published+Author+on+Apple+Books+%F0%9F%93%98;Open+to+Remote+%26+Relocation+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
 
 ---
@@ -83,7 +83,7 @@ My core is **iOS native (Swift, SwiftUI, UIKit, Objective-C)**. I specialize in 
 
 **Skill Icons**
 
-[![Skills](https://skillicons.dev/icons?i=swift,firebase,supabase,git,github,aws,figma,postman&theme=dark)](https://skillicons.dev)
+![Skills](https://skillicons.dev/icons?i=swift,firebase,supabase,git,github,aws,figma,postman&theme=dark)
 
 ---
 
@@ -120,11 +120,11 @@ My core is **iOS native (Swift, SwiftUI, UIKit, Objective-C)**. I specialize in 
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/masadchattha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/9735204/muhammad-asad-chattha"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-  <a href="https://twitter.com/masadchattha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:m.asad.chatthaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://calendly.com/m-asad-dev"><img src="https://img.shields.io/badge/Book_a_Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/masadchattha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/9735204/muhammad-asad-chattha" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://twitter.com/masadchattha" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:m.asad.chatthaa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://calendly.com/m-asad-dev" target="_blank"><img src="https://img.shields.io/badge/Book_a_Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" /></a>
 </p>
 
 <div align="center">
