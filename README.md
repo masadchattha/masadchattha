@@ -45,7 +45,6 @@ My core is **iOS native (Swift, SwiftUI, UIKit, Objective-C)**. I specialize in 
 | **Focus Bear** | ★ 4.5 | ADHD productivity · Apple Watch · German locale |
 | **Pryvate** | ★ 4.4 | E2E encrypted VoIP · RSA 4096-bit · 50+ countries |
 | **Block** | — | NFC app blocking · ShieldConfiguration |
-| **Votari** | — | Blockchain voting · BSV · 100K+ ballot capacity |
 | **Officetree** | — | SIP VoIP · Business phone · Stripe billing |
 
 *Search any of these by name on the App Store — that's not a portfolio, that's proof.*
