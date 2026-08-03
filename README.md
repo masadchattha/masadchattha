@@ -124,12 +124,6 @@ Every name below is a live App Store link — tap and check the reviews yourself
 
 ---
 
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=masadchattha&theme=tokyo-night&hide_border=true&area=true)](#-activity-graph)
-
----
-
 ## 🤝 Connect
 
 <div align="center">
