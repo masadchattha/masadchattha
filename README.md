@@ -42,7 +42,6 @@ Every name below is a live App Store link — tap and check the reviews yourself
 | App | Rating | What I built |
 |-----|--------|--------------|
 | **[Athanify](https://apps.apple.com/app/athanify/id6759103699)** | ★ 5.0 | My own app · Prayer companion · Solo built, design to launch |
-| **[Foqos](https://apps.apple.com/us/app/foqos/id6736793117)** | ★ 4.9 · 3.7K+ ratings | NFC-triggered focus · FamilyControls · Core NFC |
 | **[Shelly](https://apps.apple.com/us/app/shelly-screen-time-control/id6757734582)** | ★ 5.0 | Screen Time control · Custom Shield UI · DeviceActivityMonitor |
 | **[HiiKER](https://apps.apple.com/us/app/hiiker-the-hiking-maps-app/id1470810597)** | ★ 4.6 | 130K+ trails · Offline maps · Used by Mountain Rescue teams |
 | **[Going Solo](https://apps.apple.com/us/app/going-solo-travel-friends/id1671515758)** | ★ 4.5 | Solo travel social network · Firebase · CoreLocation |
