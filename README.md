@@ -50,7 +50,6 @@ Every name below is a live App Store link — tap and check the reviews yourself
 | **[Pryvate](https://apps.apple.com/us/app/pryvate-messenger/id914948581)** | ★ 4.4 | E2E encrypted VoIP · RSA 4096-bit · 50+ countries |
 | **[Peptify](https://apps.apple.com/us/app/peptify-peptide-tracker/id6760272148)** | ★ 4.2 | Medical tracker · On-device Vision OCR |
 | **[Plant Health](https://apps.apple.com/app/id6763390612)** | — | Plant diagnosis · RAG + local LLM · Vision · Solo built |
-| **[Votari](https://apps.apple.com/us/app/votari/id6748386729)** | — | Voting dApp · Bitcoin SV · e-passport KYC face match · Solo built |
 | **[Chapter](https://apps.apple.com/us/app/chapter-replace-a-bad-habit/id6757711400)** | — | Habit replacement · Screen Time · Gamification |
 | **[Bright Start](https://apps.apple.com/us/app/id6745139907)** | — | Morning routines · Camera light sensing · FamilyControls |
 | **[Block](https://apps.apple.com/us/app/id6752846663)** | — | NFC app blocking · ShieldConfiguration · Solo built |
