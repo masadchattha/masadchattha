@@ -64,43 +64,17 @@ Every name below is a live App Store link — tap and check the reviews yourself
 
 ## 🛠️ Tech Stack
 
-**iOS Core**
+**Languages** Swift · Objective-C · SQL · GraphQL
 
-<a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" /></a>
-<a href="https://developer.apple.com/swiftui/" target="_blank"><img src="https://img.shields.io/badge/SwiftUI-0D6EFD?style=flat-square&logo=swift&logoColor=white" /></a>
-<a href="https://developer.apple.com/documentation/uikit" target="_blank"><img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white" /></a>
-<a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" /></a>
-<a href="https://developer.apple.com/documentation/objectivec" target="_blank"><img src="https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white" /></a>
+**UI** SwiftUI · UIKit · WidgetKit · Live Activities · ARKit · Combine
 
-**Apple Frameworks & APIs**
+**Apple frameworks** Screen Time (Family Controls, ManagedSettings, DeviceActivityMonitor) · HealthKit · StoreKit 2 · MapKit & CoreLocation · Core NFC · Core ML & Vision · CallKit · AVFoundation · WatchKit
 
-<a href="https://developer.apple.com/documentation/widgetkit" target="_blank"><img src="https://img.shields.io/badge/WidgetKit-1C1C1E?style=flat-square&logo=apple&logoColor=white" /></a>
-<a href="https://developer.apple.com/documentation/screentime" target="_blank"><img src="https://img.shields.io/badge/Screen%20Time%20API-FF3B30?style=flat-square&logo=apple&logoColor=white" /></a>
-<a href="https://developer.apple.com/documentation/mapkit" target="_blank"><img src="https://img.shields.io/badge/MapKit-34C759?style=flat-square&logo=apple&logoColor=white" /></a>
-<a href="https://developer.apple.com/documentation/healthkit" target="_blank"><img src="https://img.shields.io/badge/HealthKit-FF2D55?style=flat-square&logo=apple&logoColor=white" /></a>
-<a href="https://developer.apple.com/documentation/corenfc" target="_blank"><img src="https://img.shields.io/badge/Core%20NFC-0071E3?style=flat-square&logo=apple&logoColor=white" /></a>
-<a href="https://developer.apple.com/documentation/watchkit" target="_blank"><img src="https://img.shields.io/badge/WatchKit-000000?style=flat-square&logo=apple&logoColor=white" /></a>
-<a href="https://developer.apple.com/documentation/coreml" target="_blank"><img src="https://img.shields.io/badge/CoreML-000000?style=flat-square&logo=apple&logoColor=white" /></a>
-<a href="https://developer.apple.com/documentation/createml" target="_blank"><img src="https://img.shields.io/badge/Create%20ML-000000?style=flat-square&logo=apple&logoColor=white" /></a>
+**On-device ML** Core ML · Create ML · Vision · PyTorch → Core ML conversion
 
-**AI & Machine Learning**
+**Payments** StoreKit 2 · RevenueCat · Superwall · Apple Pay · Stripe · Tap to Pay
 
-<a href="https://developer.apple.com/documentation/vision" target="_blank"><img src="https://img.shields.io/badge/Vision-5856D6?style=flat-square&logo=apple&logoColor=white" /></a>
-<a href="https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/PyTorch%20%E2%86%92%20Core%20ML-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /></a>
-<a href="https://claude.com/claude-code" target="_blank"><img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" /></a>
-<a href="https://openai.com" target="_blank"><img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" /></a>
-
-**Backend & DevOps**
-
-<a href="https://firebase.google.com" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /></a>
-<a href="https://supabase.com" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /></a>
-<a href="https://graphql.org" target="_blank"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /></a>
-<a href="https://fastlane.tools" target="_blank"><img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black" /></a>
-<a href="https://proxyman.io" target="_blank"><img src="https://img.shields.io/badge/Proxyman-8762F5?style=flat-square&logoColor=white" /></a>
-<a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
-
-**Skill Icons**
+**Backend & tooling** Firebase · Supabase · AWS · Fastlane · Proxyman · Postman · TestFlight · App Store Connect · Figma · Claude Code
 
 <a href="#-tech-stack">
   <img src="https://skillicons.dev/icons?i=swift,firebase,supabase,git,github,aws,figma,postman&theme=dark" />
