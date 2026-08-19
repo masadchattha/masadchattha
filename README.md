@@ -24,7 +24,7 @@
 
 Senior iOS Engineer with **16 apps** on the App Store, **6 of them solo built** — shipped for clients in the **US, UK, Ireland, and Australia**, with users in **50+ countries**.
 
-My core is **iOS native (Swift, SwiftUI, UIKit, Objective-C)**. I specialize in Apple's **Screen Time & FamilyControls API** (7 production apps on it — a rare skill) and **on-device Machine Learning**: CoreML + Vision powering KYC with e-passport NFC, face matching (PyTorch → Core ML), and liveness detection. Also encrypted VoIP, blockchain dApps, fintech & payments, and offline maps.
+My core is **iOS native (Swift, SwiftUI, UIKit, Objective-C)**. I specialize in Apple's **Screen Time API** — **Family Controls**, ManagedSettings and DeviceActivityMonitor (7 production apps on it, a rare skill) and **on-device Machine Learning**: CoreML + Vision powering KYC with e-passport NFC, face matching (PyTorch → Core ML), and liveness detection. Also **StoreKit 2** and **RevenueCat** subscription paywalls, encrypted VoIP, blockchain on **Bitcoin SV**, **Core NFC**, fintech and payments, and offline **MapKit** tile caching.
 
 - 📱 **16 production apps** on the App Store — search them by name
 - 🧠 **On-device ML** — CoreML, Vision, PyTorch model conversion, no cloud round trip
@@ -108,17 +108,19 @@ Every name below is a live App Store link — tap and check the reviews yourself
 
 ---
 
-## 📊 GitHub Stats
+## 🕰️ asadchattha.com, and every version before it
 
-<p align="center">
-  <a href="#-github-stats"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=masadchattha&show_icons=true&theme=tokyonight&hide_border=true" /></a>
-  &nbsp;
-  <a href="#-github-stats"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=masadchattha&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,ruby,shell" /></a>
-</p>
+My portfolio is a time machine. Rather than one site, it is four, each built in
+the spirit of a different era of web design. Every one stays online.
 
-<p align="center">
-  <a href="#-github-stats"><img src="https://streak-stats.demolab.com/?user=masadchattha&theme=tokyonight&hide_border=true" /></a>
-</p>
+| | | |
+|---|---|---|
+| **[asadchattha.com](https://asadchattha.com)** | Current | Navy and teal, monospace accents, a cursor spotlight |
+| **[v3.asadchattha.com](https://v3.asadchattha.com)** | Minimal | One screen, one sentence, one link, light and dark |
+| **[v2.asadchattha.com](https://v2.asadchattha.com)** | Cinematic | Dark and full bleed, parallax, serif display, dot nav |
+| **[v1.asadchattha.com](https://v1.asadchattha.com)** | Classic | Photo hero, fixed nav, the way portfolios used to look |
+
+*Every project I have shipped: [asadchattha.com/archive](https://asadchattha.com/archive/)*
 
 ---
 
